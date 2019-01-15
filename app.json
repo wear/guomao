@@ -1,0 +1,28 @@
+{
+  "name": "guomao",
+  "displayName": "国贸天悦",
+  "expo": {
+    "name": "guomao",
+    "icon": "./assets/icon.png",
+    "version": "0.0.1",
+    "slug": "guomao",
+    "privacy": "public",
+    "sdkVersion": "32.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "bundleIdentifier": "com.yourcompany.yourappname"
+    },
+    "android": {
+      "package": "com.qiangda.guomao"
+    }
+  }
+}
+
